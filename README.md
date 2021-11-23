@@ -13,18 +13,27 @@ Model of the database, indicate how this ER model is mapped to a relational sche
 the Functional Dependency Model for each of the relations in the database indicating
 primary & foreign keys, explain and give the SQL code needed to implement the database
 and shows how it would be used. The project will create the database as a MySQL database.
+
 The database must have the following features:
+
 • A minimum of 6 relational tables
+
 • Appropriate implicit and constraints (including primary & foreign keys)
+
 • Explicit (semantic) constraints such as table constraint(s) and triggers (you need not
 implement assertions)
+
 • At least one view should also be defined within the database
+
 • A minimum of 5 tuples per table
+
 • Your Project report must have a listing of the SQL commands which create the
 tables, populate these tables,
+
 • Additional marks will be awarded for innovation and degree of difficulty (in use of
 SQL) and the use of advanced features of SQL/PL e.g. use of variables in SQL/PL,
 embedded programmes etc.
+
 • You are required to implement the database using MySQL, which is available on
 college lab computers or downloadable on your own machines.
 Project will be submitted as a report (see example table of contents below) as a PDF file.
