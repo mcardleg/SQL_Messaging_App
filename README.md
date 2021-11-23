@@ -3,7 +3,9 @@ SQL scripts to implement a MYSQL database for a generic messaging app.
 
 
 #CSU 44D01 Project Specification
+
 Deadline: 12 noon, 26th Nov. 2021
+
 The CSU 44D01 project is to develop an ER Model for information to be represented for an
 application of your OWN choice and implement it as a MySQL database. The project
 submission will be a report which describes the database application, presents the ER
