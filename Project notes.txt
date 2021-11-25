@@ -1,0 +1,12 @@
+Constraints
+
+Message should only be able to be from a participant in the chat.
+Chat can't exist without a message and 2+ participants.
+Message can't exist without a chat and a sender.
+Device can't exist without a user.
+
+
+To Do
+
+Security.
+
